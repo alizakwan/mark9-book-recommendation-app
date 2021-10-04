@@ -1,4 +1,4 @@
-/*eslint no-script-url: 2*/
+/*eslint no-script-url: "error"*/
 
 import "./App.css";
 import { useState } from "react";
