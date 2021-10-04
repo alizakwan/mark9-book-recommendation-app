@@ -1,3 +1,5 @@
+/*eslint no-script-url: 2*/
+
 import "./App.css";
 import { useState } from "react";
 
